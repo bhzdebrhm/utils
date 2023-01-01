@@ -32,8 +32,11 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "@bhzdebrhm/utils",
-  "repository": "git://github.com/bhzdebrhm/utils.git",
+  "name": "@bhzd/utils",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bhzdebrhm/utils.git"
+  },
   "author": "bhzdebrhm",
   "size-limit": [
     {
@@ -61,5 +64,10 @@
     "history": "^5.3.0",
     "lodash": "^4.17.21",
     "lodash-es": "^4.17.21"
-  }
+  },
+  "description": "Congrats! You just saved yourself hours of work by bootstrapping this project with TSDX. Let’s get you oriented with what’s here and how to use it.",
+  "bugs": {
+    "url": "https://github.com/bhzdebrhm/utils/issues"
+  },
+  "homepage": "https://github.com/bhzdebrhm/utils#readme"
 }
